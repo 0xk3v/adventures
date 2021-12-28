@@ -2,8 +2,8 @@ import React from "react";
 
 function About() {
   return (
-    <div>
-      <p>Body About</p>
+    <div className="about">
+      <p>About</p>
     </div>
   );
 }

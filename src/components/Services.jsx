@@ -2,8 +2,8 @@ import React from "react";
 
 function Services() {
   return (
-    <div>
-      <p>Body</p>
+    <div className="services">
+      <p>Services</p>
     </div>
   );
 }

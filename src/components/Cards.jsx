@@ -10,13 +10,13 @@ const Cards = () => {
           content="Get to Travel to places you've dreamt of."
           src="images/adv-1.jpg"
           label="Nature"
-          path="/services"
+          path="/about"
         />
         <CardItem
           content="Get to cross the Amazing Bridge in the Amazon."
           src="images/adv-3.jpg"
           label="Adventures"
-          path="/services"
+          path="/products"
         />
         <CardItem
           content="Visit Great residence houses in Brazil."
