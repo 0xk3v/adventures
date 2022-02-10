@@ -1,6 +1,6 @@
 # React Template
 
-## How to use it
+## Commands available:
 
 Installing dependencies : ```yarn install```
 
